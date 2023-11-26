@@ -21,7 +21,3 @@ java {
 jar {
 	from('LICENSE.txt')
 }
-
-loom {
-	clientOnlyMinecraftJar()
-}
