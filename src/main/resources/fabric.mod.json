@@ -1,0 +1,13 @@
+{
+	"schemaVersion": 1,
+	"id": "mc-265514",
+	"version": "0.1.0",
+	"environment": "client",
+	"mixins": [
+		{
+			"config": "mc-265514.mixins.json",
+			"environment": "client"
+		}
+	],
+	"license": "MIT"
+}
