@@ -9,5 +9,8 @@
 			"environment": "client"
 		}
 	],
+	"depends": {
+		"minecraft": ">=1.20.2-alpha.23.31.a <1.21.5-alpha.25.02.a"
+	},
 	"license": "MIT"
 }
